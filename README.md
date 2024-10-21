@@ -1,0 +1,1 @@
+# hibernate-database-mapping
